@@ -31,10 +31,10 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Sprit TEA",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      " A website created for a mobile app designed for children with autism. It was created using HTML, CSS, Uikit and Bootstrap.",
+    url: "https://www.spirittea.uanl.mx",
   },
   {
     title: "Web Development for Beginners",
